@@ -1,14 +1,25 @@
 # Snake Game Emulator
 
 ### Program Description: 
-This program provides a visual display for a 2D game. The player 
+This program provides a visual display for a 2D snake game. The player 
 interacts with the game by using specific keyboard commands such as
-arrow keys for movement. To win the level and move onto the next level, 
-if there is one, the player has to be able to maneuever the player 
-square to the goal square.
+arrow keys for movement. There is a trail to indictate spaces already 
+traveled since the snake can not cross itself. To win the level and 
+move onto the next, if the level was not randomly generated and more were created, the player 
+(light blue square) has to be able to maneuever the player square to 
+the goal square (light purple square) by avoiding obstacles (gray square) 
+and taking advatange of arrow zappers (triangles that move snake in pointed direction).
 
-### How to Run
+### Examples:
+Random Level  
+<img src="Example 1.jpg">  
+Random Level with Trail  
+<img src="Example 2.jpg">  
+Different Size Game  
+<img src="Example 3.jpg">
+
+### How to Run:
 ```
-javac Streamline.java
-java Streamline
+javac GuiStreamline.java
+java GuiStreamline
 ```
