@@ -12,11 +12,11 @@ and taking advatange of arrow zappers (triangles that move snake in pointed dire
 
 ### Examples:
 Random Level  
-<img src="Example 1.JPG" width="800" />  
+<img src="Example 1.JPG" width="400" />  
 Random Level with Trail  
-<img src="Example 2.JPG" width="800" />  
+<img src="Example 2.JPG" width="400" />  
 Different Size Game  
-<img src="Example 3.JPG" width="800" />
+<img src="Example 3.JPG" width="400" />
 
 ### How to Run:
 ```
