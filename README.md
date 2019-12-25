@@ -14,7 +14,7 @@ and taking advatange of arrow zappers (triangles that move snake in pointed dire
 <img src="Example 1.JPG" width="400" />
 
 ### Random Level with Trail
-<img src="Example 2.JPG" width="400" />
+<img src="Example 2.gif" width="400" />
 
 ### Different Size Game
 <img src="Example 3.JPG" width="400" />
